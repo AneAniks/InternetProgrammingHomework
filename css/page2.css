@@ -1,0 +1,145 @@
+#EduTrain
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 120%;
+  font:bold;
+  color: #003300;
+  top:10px;
+  left:650px;
+}
+
+#EduTrainDate1
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:70px;
+  left:600px;
+}
+
+#EduTrainH1
+{
+  position: absolute;
+  text-align: center;
+  font-size:120%;
+  color: #117344;
+  top:65px;
+  left:950px;
+  line-height:10px; 
+}
+
+#EduTrainP1
+{
+  position: absolute;
+  font-size:120%;
+  top:120px;
+  left:850px;
+}
+
+#EduTrainDate2
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:250px;
+  left:600px;
+}
+
+#EduTrainH2
+{
+  position: absolute;
+  text-align: center;
+  font-size:120%;
+  color: #117344;
+  top:240px;
+  left:1110px;
+  line-height:10px; 
+}
+
+#EduTrainP2
+{
+  position: absolute;
+  font-size:120%;
+  top:300px;
+  left:800px;
+}
+
+#EduTrainDate3
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:500px;
+  left:600px;
+}
+
+#EduTrainH3
+{
+  position: absolute;
+  text-align: center;
+  font-size:120%;
+  color: #117344;
+  top:500px;
+  left:950px;
+  line-height:10px; 
+}
+
+#EduTrainP3
+{
+  position: absolute;
+  font-size:120%;
+  top:560px;
+  left:800px;
+}
+
+#EduTrainDate4
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:700px;
+  left:600px;
+}
+
+#EduTrainH4
+{
+  position: absolute;
+  text-align: center;
+  font-size:120%;
+  color: #117344;
+  top:690px;
+  left:950px;
+  line-height:10px; 
+}
+
+
+#EduTrainP4
+{
+  position: absolute;
+  font-size:120%;
+  top:750px;
+  left:800px;
+}
+
+#ButtonNext
+{
+  position:absolute;
+  top:870px;
+  left:1600px;
+}
+
+#ButtonBack
+{
+  position:absolute;
+  top:870px;
+  left:600px;
+}

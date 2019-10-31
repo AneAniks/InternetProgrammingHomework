@@ -1,0 +1,131 @@
+#EduTrainDate5
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:30px;
+  left:600px;
+}
+
+#EduTrainH5
+{
+  position: absolute;
+  text-align: center;
+  font-size:120%;
+  color: #117344;
+  top:25px;
+  left:850px;
+  line-height:10px; 
+}
+
+#EduTrainP5
+{
+  position: absolute;
+  font-size:120%;
+  top:90px;
+  left:800px;
+}
+
+#PerSkills
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 120%;
+  font:bold;
+  color: #003300;
+  top:170px;
+  left:650px;
+}
+
+#PerSkillsH1
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:240px;
+  left:600px;
+}
+
+#PerSkillsP1
+{
+  position: absolute;
+  font-size:120%;
+  top:220px;
+  left:800px;
+}
+
+#PerSkillsH2
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:305px;
+  left:450px;
+}
+
+#PerSkillsP2
+{
+  position: absolute;
+  font-size:120%;
+  top:280px;
+  left:800px;
+}
+
+#PerSkillsH3
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:520px;
+  left:600px;
+}
+
+#PerSkillsP3
+{
+  position: absolute;
+  font-size:120%;
+  top:380px;
+  left:800px;
+}
+
+#PerSkillsH4
+{
+  position: absolute;
+  font-family: courier;
+  font-size: 100%;
+  font:bold;
+  color: #003300;
+  top:750px;
+  left:600px;
+}
+
+#PerSkillsP4
+{
+  position: absolute;
+  font-size:120%;
+  top:745px;
+  left:800px;
+}
+
+#ButtonBack
+{
+  position:absolute;
+  top:800px;
+  left:600px;
+}
+
+#Slika
+{
+  position: relative; 
+  top:700px;
+  left:1100px;
+}
+
